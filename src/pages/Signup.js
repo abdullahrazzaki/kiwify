@@ -76,12 +76,14 @@ const Signup = () => {
                         href="https://kiwify.com.br/termos-de-uso"
                         target="_blank"
                         className="underline"
+                        rel="noreferrer"
                       >
                         {" "}
                         termos de uso
                       </a>
                       ,{" "}
                       <a
+                        rel="noreferrer"
                         href="https://kiwify.com.br/licenca-de-uso-software"
                         target="_blank"
                         className="underline"
@@ -92,6 +94,7 @@ const Signup = () => {
                       ,{" "}
                       <a
                         href="https://kiwify.com.br/politica-de-conteudo"
+                        rel="noreferrer"
                         target="_blank"
                         className="underline"
                       >
